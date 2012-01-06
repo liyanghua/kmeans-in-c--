@@ -1,0 +1,11 @@
+This is a simple implememtation of kmeans clustering alogrithm in c++.
+
+How to run?
+cd your_path_to_kmeans
+make 
+kmeans heart_scale
+
+heart_scale contains the testing data.
+
+If you have any question, please contact me:
+time.clifford@gmail.com
